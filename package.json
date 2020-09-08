@@ -1,5 +1,5 @@
 {
-  "name": "shanmukh-inventory",
+  "name": "IcrowdTasker",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js"
   },
-  "author": "Shanmukh",
+  "author": "AdhityaRam",
   "license": "ISC",
   "dependencies": {
     "@sendgrid/mail": "^7.2.5",
